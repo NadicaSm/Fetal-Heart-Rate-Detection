@@ -40,4 +40,4 @@ Nadica Miljković acknowledges the support from Grant No. 451-03-47/2023-01/2001
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
 1) Tanasković, I., & Miljković, N. (2023). A new algorithm for fetal heart rate detection: Fractional order calculus approach. Under review.
-2) Tanasković, I., & Miljković, N. (2023). [NadicaSm/Fetal-Heart-Rate-Detection](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection): v1 (Version v1). Version v1. [Software code] Zenodo. 
+2) Tanasković, I., & Miljković, N. (2023). [NadicaSm/Fetal-Heart-Rate-Detection](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection): : Şoftware and Data for Fetal Heart Rate Detection (Version v1) [Software code and data] Zenodo. [https://doi.org/10.5281/zenodo.7824902](https://doi.org/10.5281/zenodo.7824902)
