@@ -14,7 +14,7 @@ The repository contains the following code:
 ### Data
 
 ## Contacts
-Ilija Tanasković ([ilijatanaskovic97@hotmail.com](mailto:ilijatanaskovic97@hotmail.com)) or N. Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
+Ilija Tanasković ([ilijatanaskovic97@hotmail.com](mailto:ilijatanaskovic97@hotmail.com)) or Nadica Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
 
 ## Funding
 Nadica Miljković acknowledges the support from Grant No. 451-03-47/2023-01/200103 funded by the Ministry of Science,Technological Development and Innovation of the Republic of Serbia.
