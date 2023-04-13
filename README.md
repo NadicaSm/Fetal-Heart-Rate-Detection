@@ -1,5 +1,5 @@
 # Fetal-Heart-Rate-Detection
-This repository contains Matlab and R programming, as well as obtained parameters and referent annotations for maternal QRS complexescodes that reproduce results for the paper titled "A new algorithm for fetal heart rate detection: Fractional order calculus approach" authored by Ilija Tanasković (ORCiD: [0000-0002-6488-4074](https://orcid.org/0000-0002-6488-4074)) and Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)).
+This repository contains Matlab and R programming codes, as well as obtained parameters and referent annotations for maternal QRS complexes that reproduce results for the paper titled "A new algorithm for fetal heart rate detection: Fractional order calculus approach" authored by Ilija Tanasković (ORCiD: [0000-0002-6488-4074](https://orcid.org/0000-0002-6488-4074)) and Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)).
 
 ## GitHub Repository Contents
 This repository contains the MATLAB and R programming code, as well as obtained parameters and referent annotations for maternal QRS complexes used for reproducing results presented in paper titled "A new algorithm for fetal heart rate detection: Fractional order calculus approach".
