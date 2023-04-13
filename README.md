@@ -18,12 +18,12 @@ The repository contains the following code:
 
 ### Data
 1) [signal quality parameters for statistical test.csv](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/signal%20quality%20parameters%20for%20statistical%20test.csv) - table with signal quality parameters before and after maternal QRS cancellation
-  1.1) snr_pre is signal to noise ratio calculated using [SNR_time_domain.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/SNR_time_domain.m) before maternal QRS cancellation
-  1.2) snr_post is signal to noise ratio calculated using [SNR_time_domain.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/SNR_time_domain.m) after maternal QRS cancellation
-  1.3) xSQI_pre is extravagane of fetal QRS complex calculated using [xSQI_calc.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/xSQI_calc.m) - Matlab software code that estimates extravagance of fetal QRS peak (parameter used for signal quality assessment) before maternal QRS cancellation
-  1.4) xSQI_post is extravagane of fetal QRS complex calculated using [xSQI_calc.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/xSQI_calc.m) - Matlab software code that estimates extravagance of fetal QRS peak (parameter used for signal quality assessment) after maternal QRS cancellation
-  1.5) fQRS_to_mQRS_pre is the mean amplitude ratio between fetal QRS complexes and maternal QRS complexes before mQRS cancellation
-  1.5) fQRS_to_mQRS_post is the mean amplitude ratio between fetal QRS complexes and maternal QRS complexes after mQRS cancellation
+  1.1) snr_pre is signal to noise ratio calculated using [SNR_time_domain.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/SNR_time_domain.m) before maternal QRS cancellation.
+  1.2) snr_post is signal to noise ratio calculated using [SNR_time_domain.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/SNR_time_domain.m) after maternal QRS cancellation.
+  1.3) xSQI_pre is extravagane of fetal QRS complex calculated using [xSQI_calc.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/xSQI_calc.m) - Matlab software code that estimates extravagance of fetal QRS peak (parameter used for signal quality assessment) before maternal QRS cancellation.
+  1.4) xSQI_post is extravagane of fetal QRS complex calculated using [xSQI_calc.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/xSQI_calc.m) - Matlab software code that estimates extravagance of fetal QRS peak (parameter used for signal quality assessment) after maternal QRS cancellation.
+  1.5) fQRS_to_mQRS_pre is the mean amplitude ratio between fetal QRS complexes and maternal QRS complexes before mQRS cancellation.
+  1.5) fQRS_to_mQRS_post is the mean amplitude ratio between fetal QRS complexes and maternal QRS complexes after mQRS cancellation.
 
 ## Contacts
 Ilija Tanasković ([ilijatanaskovic97@hotmail.com](mailto:ilijatanaskovic97@hotmail.com)) or Nadica Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
