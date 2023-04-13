@@ -89,7 +89,13 @@ data1 = filtfilt(b5,a5,filtfilt(b4,a4,data1));
 %% Fractional derivative 
 
 for alpha = 0:0.1:3.0
-    data_filt1 = glfdiff(data1,t,alpha)';
+% for the analysis presented in the paper, we used copyrighted gldiff function:
+% Tomas Skovranek (2023). FracApp: numerical differ-integrals of fractional order 
+% (https://www.mathworks.com/matlabcentral/fileexchange/73815-fracapp-numerical-differ-integrals-of-fractional-order)
+% MATLAB Central File Exchange. Retrieved April 13, 2023. 
+% For the realization of this code, any other function could be used (we placed fracdif() function to
+% emphasize this and to be able to share it under GNU GPL-3.0 license)
+    data_filt1 = fracdif(data1,t,alpha)';
 
     %% Square
     data_kv = data_filt1.^2;
