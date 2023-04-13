@@ -2,7 +2,7 @@
 This repository contains Matlab and R programming codes that reproduce results for the paper titled "A new algorithm for fetal heart rate detection: Fractional order calculus approach" authored by Ilija Tanasković (ORCiD: [0000-0002-6488-4074](https://orcid.org/0000-0002-6488-4074)) and Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)).
 
 ## GitHub Repository Contents
-This repository contains
+This repository contains...
 
 ### Code
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
@@ -24,7 +24,7 @@ The repository contains the following code:
     1.4. xSQI_post is extravagane of fetal QRS complex calculated using [xSQI_calc.m](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/xSQI_calc.m) - Matlab software code that estimates extravagance of fetal QRS peak (parameter used for signal quality assessment) after maternal QRS cancellation.<br>
     1.5. fQRS_to_mQRS_pre is the mean amplitude ratio between fetal QRS complexes and maternal QRS complexes before mQRS cancellation.<br>
     1.6. fQRS_to_mQRS_post is the mean amplitude ratio between fetal QRS complexes and maternal QRS complexes after mQRS cancellation.<br>
-2) [maternal QRS annotations](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/tree/main/maternal%20QRS%20annotations) - folder with .csv tables with annotations of maternal QRS complexes performed on signals saved in files a01, a02, ..., a25 from the [PhysioNet](https://physionet.org/) database "Noninvasive Fetal ECG: The PhysioNet/Computing in Cardiology Challenge 2013" ([CinC](https://physionet.org/content/challenge-2013/1.0.0/)). References for this database are:<br>
+2) [maternal QRS annotations](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/tree/main/maternal%20QRS%20annotations) - folder with .csv tables with annotations of maternal QRS complexes performed on signals saved in files a01, a02, ..., a25 from the initial Set A[PhysioNet](https://physionet.org/) database "Noninvasive Fetal ECG: The PhysioNet/Computing in Cardiology Challenge 2013" ([CinC](https://physionet.org/content/challenge-2013/1.0.0/)). The annotations are shown in form of samples with sampling frequency 1000 Hz. References for this database are:<br>
     2.1. Goldberger, A. L., Amaral, L. A., Glass, L., Hausdorff, J. M., Ivanov, P. C., Mark, R. G., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals. circulation, 101(23), e215-e220. [https://doi.org/10.1161/01.CIR.101.23.e215](https://doi.org/10.1161/01.CIR.101.23.e215)<br>
     2.2. Silva, I., Behar, J., Sameni, R., Zhu, T., Oster, J., Clifford, G. D., & Moody, G. B. (2013, September). Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013. In Computing in cardiology 2013 (pp. 149-152). IEEE.
 
