@@ -1,6 +1,8 @@
 close all; clear all; clc;
 
-fs = 1000; % sampling frequency
+% Sampling frequency
+fs = 1000; 
+
 opt_F1 = zeros(1,25);
 opt_FO = -ones(1,25);
 opt_MA = -ones(1,25);
