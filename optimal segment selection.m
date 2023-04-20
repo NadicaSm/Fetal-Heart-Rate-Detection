@@ -92,20 +92,19 @@ val_xSQI = zeros(2, 25);
 val_SNR = zeros(2, 25);
 val_fQRS_to_mQRS = zeros(2, 25);
 
-for i = 1:25
-    [~,i1] = max(reshape(xSQI_parts(i, :, :), 4, 11)');
-    [~,i2] = max(max(reshape(xSQI_parts(i, :, :), 4, 11)'));
-    val_xSQI(2, i) = i2;
-    val_xSQI(1, i) = i1(i2);
-    [~, i1] = max(reshape(snr_parts(i, :, :), 4, 11)');
-    [~, i2] = max(max(reshape(snr_parts(i, :, :), 4, 11)'));
-    val_SNR(2, i) = i2;
-    val_SNR(1, i) = i1(i2);    
-    [~, i1] = max(reshape(fQRS_to_mQRS(i, :, :), 4, 11)');
-    [~, i2] = max(max(reshape(fQRS_to_mQRS(i, :, :), 4, 11)'));
-    val_fQRS_to_mQRS(2, i) = i2;
-    val_fQRS_to_mQRS(1, i) = i1(i2);
-    
+for ix = 1:25
+    [~,i1] = max(reshape(xSQI_parts(ix, :, :), 4, 11)');
+    [~,i2] = max(max(reshape(xSQI_parts(ix, :, :), 4, 11)'));
+    val_xSQI(2, ix) = i2;
+    val_xSQI(1, ix) = i1(i2);
+    [~, i1] = max(reshape(snr_parts(ix, :, :), 4, 11)');
+    [~, i2] = max(max(reshape(snr_parts(ix, :, :), 4, 11)'));
+    val_SNR(2, ix) = i2;
+    val_SNR(1, ix) = i1(i2);    
+    [~, i1] = max(reshape(fQRS_to_mQRS(ix, :, :), 4, 11)');
+    [~, i2] = max(max(reshape(fQRS_to_mQRS(ix, :, :), 4, 11)'));
+    val_fQRS_to_mQRS(2, ix) = i2;
+    val_fQRS_to_mQRS(1, ix) = i1(i2); 
 end
 
 val_xSQI(1, :) = (val_xSQI(1, :) - 1)*5;
