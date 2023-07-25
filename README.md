@@ -1,8 +1,8 @@
 # Fetal-Heart-Rate-Detection
-This repository contains Matlab and R programming codes, as well as obtained signal quality parameters and referent annotations for maternal QRS complexes that reproduce results for the paper titled "A new algorithm for fetal heart rate detection: Fractional order calculus approach" authored by Ilija Tanasković (ORCiD: [0000-0002-6488-4074](https://orcid.org/0000-0002-6488-4074)) and Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)). Maternal QRS complexes are calculated on openly available signals from PhysioNet "Noninvasive Fetal ECG: The PhysioNet/Computing in Cardiology Challenge 2013" database. 
+This repository contains Matlab and R programming codes, as well as obtained signal quality parameters and referent annotations for maternal QRS complexes that reproduce results for the paper titled "[A new algorithm for fetal heart rate detection: Fractional order calculus approach](https://www.sciencedirect.com/science/article/abs/pii/S1350453323000620)" authored by Ilija Tanasković (ORCiD: [0000-0002-6488-4074](https://orcid.org/0000-0002-6488-4074)) and Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)). Maternal QRS complexes are calculated on openly available signals from PhysioNet "Noninvasive Fetal ECG: The PhysioNet/Computing in Cardiology Challenge 2013" database. 
 
 ## GitHub Repository Contents
-This repository contains MATLAB and R programming codes, as well as obtained signal quality parameters and referent annotations for maternal QRS complexes used for reproducing results presented in paper titled "A new algorithm for fetal heart rate detection: Fractional order calculus approach".
+This repository contains MATLAB and R programming codes, as well as obtained signal quality parameters and referent annotations for maternal QRS complexes used for reproducing results presented in paper titled "[A new algorithm for fetal heart rate detection: Fractional order calculus approach](https://www.sciencedirect.com/science/article/abs/pii/S1350453323000620)".
 Also, this repository contains [README.md](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/README.md) file with relevant information essential for the code reproducibility and [LICENSE](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection/blob/main/LICENSE) file that contains license information that covers shared software codes.
 
 ### Code
@@ -39,5 +39,5 @@ Nadica Miljković acknowledges the support from Grant No. 451-03-47/2023-01/2001
 
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
-1) Tanasković, I., & Miljković, N. (2023). A new algorithm for fetal heart rate detection: Fractional order calculus approach. Under review.
+1) Tanasković, I., & Miljković, N. (2023). A new algorithm for fetal heart rate detection: Fractional order calculus approach. Medical Engineering & Physics, 104007. [https://doi.org/10.1016/j.medengphy.2023.104007](https://doi.org/10.1016/j.medengphy.2023.104007)
 2) Tanasković, I., & Miljković, N. (2023). [NadicaSm/Fetal-Heart-Rate-Detection](https://github.com/NadicaSm/Fetal-Heart-Rate-Detection): Software and Data for Fetal Heart Rate Detection (Version v1) [Software code and data] Zenodo. [https://doi.org/10.5281/zenodo.7824902](https://doi.org/10.5281/zenodo.7824902).
