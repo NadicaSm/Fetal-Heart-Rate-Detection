@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "A new algorithm for fetal heart rate detection: Fractional order calculus approach"
+authors:
+- family-names: "Tanasković"
+  given-names: "Ilija"
+- family-names: "Miljković"
+  given-names: "Nadica"
+url: "https://doi.org/10.1016/j.medengphy.2023.104007"
+
+preferred-citation:
+  type: article
+  title: "A new algorithm for fetal heart rate detection: Fractional order calculus approach"
+  authors:
+  - family-names: "Tanasković"
+    given-names: "Ilija"
+  - family-names: "Miljković"
+    given-names: "Nadica"
+  journal: "Medical Engineering & Physics"
+  volume: 118
+  start: 104007
+  year: 2023
+  publisher: "Elsevier"
+  doi: "10.1016/j.medengphy.2023.104007"
